@@ -23,4 +23,4 @@ Details : There are 2 ruby scripts :
                          cookbook_name, 
                          delete_existing_runlist_items (opional) (boolean : if nil or empty or y or Y then run-list would be replaced with cookbook_name)
             
-            usage : ruby appli-packages_ubuntu.rb my_Dest_machine user2 pass2 my_project_cookbook
+            usage : ruby apply_packages_ubuntu.rb my_Dest_machine user2 pass2 my_project_cookbook
