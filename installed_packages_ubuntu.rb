@@ -14,7 +14,8 @@ dest_user_pass =  ARGV[7]
 
 
 #path for cookbook folder in current chef repository
-cookbook_path = "/home/abhay/chef-server-local-30.27/cookbooks/"
+#TODO - add param for this to take custom cookbook path
+cookbook_path = "./cookbooks/"
 
 
 #get package list
